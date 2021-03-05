@@ -1,7 +1,6 @@
 {
   "name": "recits-confines",
   "short_name": "recits-confines",
-  "description": "Un projet de recherche scientifique participatif",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.c805be.png",
